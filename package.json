@@ -1,0 +1,16 @@
+{
+  "name": "icelandic-lottery",
+  "version": "1.0.0",
+  "description": "Parses the various lotteries avalible in Iceland",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/koddsson/icelandic-lottery",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.55.0"
+  }
+}
